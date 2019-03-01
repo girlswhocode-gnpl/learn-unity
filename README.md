@@ -1,5 +1,5 @@
 # Learn: Unity, Game Development for the Oculus Track
-These resources have been aggregated for the web development track of the Great Neck Public Library, Levels Hackathon.
+These resources have been aggregated for the virtual reality track of the Great Neck Public Library, Levels Hackathon.
 
 > You'll need to create a Github account and setup the Atom Text Editor for most of these tutorials.
 
